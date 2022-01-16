@@ -1,6 +1,6 @@
 ## Tasmota and Sonoff NSPanel
 
-### Quixk early version of TFT custom screen firmware upload
+### Quick early version of TFT custom screen firmware upload
 
 Copy the nextion.bs file to your device with the File System Manager. Change the autoexec.bs to load that instead of the nspanl.bs if you were using that with custom screen firmware.
 
