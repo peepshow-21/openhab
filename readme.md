@@ -3,6 +3,7 @@
 ### Quixk early version of TFT custom screen firmware upload
 
 Copy the nextion.bs file to your device with the File System Manager. Change the autoexec.bs to load that instead of the nspanl.bs if you were using that with custom screen firmware.
+https://github.com/peepshow-21/openhab/blob/main/nextion.be
 
 Download the jar file and run it with an installed java runtime on your windows or linux host
 Browse to the TFT file you want to upload.
